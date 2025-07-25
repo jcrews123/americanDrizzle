@@ -1,4 +1,4 @@
-import rigoImageUrl from "../assets/img/rigo-baby.jpg";
+import drizzle from "../assets/img/image/drizzle";
 import useGlobalReducer from "../hooks/useGlobalReducer.jsx";
 
 export const Home = () => {
@@ -7,10 +7,10 @@ export const Home = () => {
 
 	return (
 		<div className="text-center mt-5">
-			<h1>TEST</h1>
+			<h1>American Drizzle</h1>
 			<p>
-				<img src={rigoImageUrl} />
+				<img src={drizzle} />
 			</p>
 		</div>
 	);
-}; 
+};
