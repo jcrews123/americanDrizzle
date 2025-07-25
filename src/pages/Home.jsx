@@ -1,4 +1,4 @@
-import drizzle from "../assets/img/image/drizzle.png";
+import drizzle from "../assets/img/drizzle.png";
 import useGlobalReducer from "../hooks/useGlobalReducer.jsx";
 
 export const Home = () => {
